@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1575801230 source:d:\freshman year\cs 100\cs project\2048\main.cpp
+	<iostream>
+	<iomanip>
+	<time.h>
+	<stdlib.h>
+	<fstream>
+
